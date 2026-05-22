@@ -1,12 +1,12 @@
 # 👋 Duong Quang Duy — Mechatronics Engineer | Autonomous Mobile Robot (AMR) & ROS2 Enthusiast
 
-Xin chào! Tôi là **Duong Quang Duy**, hiện đang theo học chương trình Kỹ sư Chất lượng cao ngành Cơ điện tử tại Đại học Bách Khoa TP.HCM (HCMUT). Tôi định hướng chuyên sâu nghiên cứu, phát triển hệ thống **Robot di động tự hành (AMR)** với các công nghệ hiện đại như **ROS2**, SLAM, định vị, lập kế hoạch đường đi, điều khiển, thiết kế cơ khí và hệ thống điện tích hợp.
+Xin chào! Tôi là **Duong Quang Duy**, hiện đang theo học chương trình Kỹ sư tài năng ngành Cơ điện tử tại Đại học Bách Khoa TP.HCM (HCMUT). Tôi định hướng chuyên sâu nghiên cứu, phát triển hệ thống **Robot di động tự hành (AMR)** với các công nghệ hiện đại như **ROS2**, SLAM, định vị, lập kế hoạch đường đi, điều khiển, thiết kế cơ khí và hệ thống điện tích hợp.
 
 ---
 
 ## 🌟 Tóm tắt bản thân
 
-- 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Chất lượng cao, Đại học Bách Khoa TP.HCM (dự kiến tốt nghiệp 2025)
+- 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Kỹ sư tài năng, Đại học Bách Khoa TP.HCM (dự kiến tốt nghiệp tháng 11 năm 2026)
 - 🤖 **Chuyên môn sâu**: thiết kế, chế tạo và điều khiển robot di động thông minh, tập trung vào công nghệ ROS2 và hệ sinh thái robot hiện đại
 - 🏆 **Giải thưởng/Học bổng**: Eureka (Nghiên cứu KH sinh viên), 2 học bổng ngành Cơ khí, công bố hội nghị về hệ thống robot tự hành
 - 💻 **Kỹ năng nổi bật**: ROS/ROS2 (Humble, Foxy, Noetic, Melodic), Python, C/C++, SolidWorks, AutoCAD, lập trình nhúng STM32/Arduino, mô phỏng xử lý robot trên Gazebo/Matlab
