@@ -8,7 +8,6 @@ Xin chào! Tôi là **Duong Quang Duy**, hiện đang theo học chương trình
 
 - 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Kỹ sư tài năng, Đại học Bách Khoa TP.HCM (dự kiến tốt nghiệp tháng 11 năm 2026)
 - 🤖 **Chuyên môn sâu**: thiết kế, chế tạo và điều khiển robot di động thông minh, tập trung vào công nghệ ROS2 và hệ sinh thái robot hiện đại
-- 🏆 **Giải thưởng/Học bổng**: Eureka (Nghiên cứu KH sinh viên), 2 học bổng ngành Cơ khí, công bố hội nghị về hệ thống robot tự hành
 - 💻 **Kỹ năng nổi bật**: ROS/ROS2 (Humble, Foxy, Noetic, Melodic), Python, C/C++, SolidWorks, AutoCAD, lập trình nhúng STM32/Arduino, mô phỏng xử lý robot trên Gazebo/Matlab
 - 👨‍🔧 **Kinh nghiệm thực tiễn**: nhiều dự án thực chiến về AMR, SLAM, navigation, hardware abstraction, tích hợp cảm biến, chế tạo cơ khí, điện tử công suất
 
