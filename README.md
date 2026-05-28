@@ -2,8 +2,9 @@
 
 ## 📽️ Video nổi bật về Robot AMR
 
-[![ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers](https://img.youtube.com/vi/PfBajxqzmNw/0.jpg)](https://www.youtube.com/watch?v=PfBajxqzmNw)
 **ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers**
+
+[![ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers](https://img.youtube.com/vi/PfBajxqzmNw/0.jpg)](https://www.youtube.com/watch?v=PfBajxqzmNw)
 
 > Xem thêm: [Toàn bộ playlist AMR Robot](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
 
