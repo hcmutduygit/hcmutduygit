@@ -2,8 +2,6 @@
 
 ## 📽️ Robot tự hành mô phỏng nhiệm vụ tại Trung tâm Phục vụ hành chính công
 
-**ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers**
-
 [![ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers](https://img.youtube.com/vi/PfBajxqzmNw/0.jpg)](https://www.youtube.com/watch?v=PfBajxqzmNw)
 
 > Xem thêm: [Playlist các kết quả](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
