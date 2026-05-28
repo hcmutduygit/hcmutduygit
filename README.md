@@ -1,6 +1,16 @@
 # 👋 Duong Quang Duy — Mechatronics Engineer | Autonomous Mobile Robot (AMR) & ROS2 Enthusiast
 
-Xin chào! Tôi là **Duong Quang Duy**, hiện đang theo học chương trình Kỹ sư tài năng ngành Cơ điện tử tại Đại học Bách Khoa TP.HCM (HCMUT). Tôi định hướng chuyên sâu nghiên cứu, phát triển hệ thống **Robot di động tự hành (AMR)** với các công nghệ hiện đại như **ROS2**, SLAM, định vị, lập kế hoạch đường đi, điều khiển, thiết kế cơ khí và hệ thống điện tích hợp.
+## 📽️ Các video nổi bật về Robot AMR
+
+[![Playlist YouTube: AMR Robot](https://img.youtube.com/vi/viOkGgBhvx8/0.jpg)](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
+> Xem toàn bộ danh sách phát: [AMR Robot Playlist](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
+
+### Một số video tiêu biểu
+
+1. [Video 1: (Tên video 1)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+2. [Video 2: (Tên video 2)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+3. [Video 3: (Tên video 3)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+<!-- Cập nhật lại tiêu đề/video id thực tế nếu bạn muốn chuẩn xác hơn -->
 
 ---
 
@@ -9,7 +19,7 @@ Xin chào! Tôi là **Duong Quang Duy**, hiện đang theo học chương trình
 - 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Kỹ sư tài năng, Đại học Bách Khoa TP.HCM (dự kiến tốt nghiệp tháng 11 năm 2026)
 - 🤖 **Chuyên môn sâu**: thiết kế, chế tạo và điều khiển robot di động thông minh, tập trung vào công nghệ ROS2 và hệ sinh thái robot hiện đại
 - 💻 **Kỹ năng nổi bật**: ROS/ROS2 (Humble, Foxy, Noetic, Melodic), Python, C/C++, SolidWorks, AutoCAD, lập trình nhúng STM32/Arduino, mô phỏng xử lý robot trên Gazebo/Matlab
-- 👨‍🔧 **Kinh nghiệm thực tiễn**: nhiều dự án thực chiến về AMR, SLAM, navigation, hardware abstraction, tích hợp cảm biến, chế tạo cơ khí, điện tử công suất
+- 👨‍🔧 **Kinh nghiệm thực tiễn**: nhiều dự án thực chiến về AMR, SLAM, navigation, hardware abstraction, tích hợp cảm biến, chế tạo cơ khí, điện tử công nghiệp
 
 ---
 
