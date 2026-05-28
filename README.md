@@ -10,7 +10,7 @@
 
 ## 🌟 Tóm tắt bản thân
 
-- 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Kỹ sư tài năng, Đại học Bách Khoa TP.HCM (dự kiến tốt nghiệp tháng 11 năm 2026)
+- 🎓 **Cử nhân Kỹ thuật Cơ điện tử**, chương trình Kỹ sư tài năng, Đại học Bách Khoa TP.HCM (dự kiến hoàn thành chương trình học vào tháng 7 năm 2026)
 - 🤖 **Chuyên môn sâu**: thiết kế, chế tạo và điều khiển robot di động thông minh, tập trung vào công nghệ ROS2 và hệ sinh thái robot hiện đại
 - 💻 **Kỹ năng nổi bật**: ROS/ROS2 (Humble, Foxy, Noetic, Melodic), Python, C/C++, SolidWorks, AutoCAD, lập trình nhúng STM32/Arduino, mô phỏng xử lý robot trên Gazebo/Matlab
 - 👨‍🔧 **Kinh nghiệm thực tiễn**: nhiều dự án thực chiến về AMR, SLAM, navigation, hardware abstraction, tích hợp cảm biến, chế tạo cơ khí, điện tử công nghiệp
