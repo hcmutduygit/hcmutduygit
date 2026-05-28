@@ -2,15 +2,16 @@
 
 ## 📽️ Các video nổi bật về Robot AMR
 
-[![Playlist YouTube: AMR Robot](https://img.youtube.com/vi/viOkGgBhvx8/0.jpg)](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
-> Xem toàn bộ danh sách phát: [AMR Robot Playlist](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
+[![ROS2 SLAM Toolbox Mapping Using LiDAR, IMU and Wheel Encoder](https://img.youtube.com/vi/kdNlvN76Oms/0.jpg)](https://www.youtube.com/watch?v=kdNlvN76Oms)
+**ROS2 SLAM Toolbox Mapping Using LiDAR, IMU and Wheel Encoder**
 
-### Một số video tiêu biểu
+[![ROS2 Indoor Navigation with AMCL Localization and Nav2](https://img.youtube.com/vi/kOLkMRJZKV8/0.jpg)](https://www.youtube.com/watch?v=kOLkMRJZKV8)
+**ROS2 Indoor Navigation with AMCL Localization and Nav2**
 
-1. [Video 1: (Tên video 1)](https://www.youtube.com/watch?v=VIDEO_ID_1)
-2. [Video 2: (Tên video 2)](https://www.youtube.com/watch?v=VIDEO_ID_2)
-3. [Video 3: (Tên video 3)](https://www.youtube.com/watch?v=VIDEO_ID_3)
-<!-- Cập nhật lại tiêu đề/video id thực tế nếu bạn muốn chuẩn xác hơn -->
+[![ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers](https://img.youtube.com/vi/PfBajxqzmNw/0.jpg)](https://www.youtube.com/watch?v=PfBajxqzmNw)
+**ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers**
+
+> Xem thêm: [Toàn bộ playlist AMR Robot](https://www.youtube.com/playlist?list=PLIZi6qRKu5Vzvb57zsJ8V_Gm_dWZgDHii)
 
 ---
 
