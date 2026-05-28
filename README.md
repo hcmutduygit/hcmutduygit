@@ -1,12 +1,6 @@
 # 👋 Duong Quang Duy — Mechatronics Engineer | Autonomous Mobile Robot (AMR) & ROS2 Enthusiast
 
-## 📽️ Các video nổi bật về Robot AMR
-
-[![ROS2 SLAM Toolbox Mapping Using LiDAR, IMU and Wheel Encoder](https://img.youtube.com/vi/kdNlvN76Oms/0.jpg)](https://www.youtube.com/watch?v=kdNlvN76Oms)
-**ROS2 SLAM Toolbox Mapping Using LiDAR, IMU and Wheel Encoder**
-
-[![ROS2 Indoor Navigation with AMCL Localization and Nav2](https://img.youtube.com/vi/kOLkMRJZKV8/0.jpg)](https://www.youtube.com/watch?v=kOLkMRJZKV8)
-**ROS2 Indoor Navigation with AMCL Localization and Nav2**
+## 📽️ Video nổi bật về Robot AMR
 
 [![ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers](https://img.youtube.com/vi/PfBajxqzmNw/0.jpg)](https://www.youtube.com/watch?v=PfBajxqzmNw)
 **ROS2 AMR Prototype: Simulating Guidance Tasks for Public Administration Service Centers**
